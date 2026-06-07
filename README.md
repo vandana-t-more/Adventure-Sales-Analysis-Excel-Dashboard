@@ -45,5 +45,5 @@ The dashboard provides a comprehensive view of sales performance, profitability,
 - Create a Power BI version of the dashboard
 - Incorporate predictive sales analysis
 
-## 🤝 About This Project
+##  About This Project
 This project was developed as part of my journey in Data Analytics and Business Intelligence. I'm continuously learning and exploring new tools, techniques, and best practices to improve my analytical and problem-solving skills.
