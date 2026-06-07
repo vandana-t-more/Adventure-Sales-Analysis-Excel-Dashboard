@@ -23,7 +23,7 @@ The dashboard provides a comprehensive view of sales performance, profitability,
 
 ##  Dashboard Snapshot
 
-![Dashboard](dashboard-screenshot.png)
+![Dashboard](Adventure_work_xcel_Dashboard.png)
 
 ##  Project Structure
 - `Adventure_work_xcel_Dashboard.xlsm` → Interactive Excel Dashboard
